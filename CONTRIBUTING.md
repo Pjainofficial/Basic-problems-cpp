@@ -1,2 +1,4 @@
 Please add your names as a contributor
-Payal Jain
+
+1. Payal Jain
+2. Rohit Shekhar Singh
